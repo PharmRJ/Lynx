@@ -15,6 +15,7 @@ disableKinds = ["taxonomy", "term"]
 
   links = [
     { bluesky = "https://bsky.app/profile/pharmrj.bsky.social" },
+    { x = { href = "https://x.com/PharmRJ", text = "Twitter" } },
     # { email = "mailto:hello@your_domain.com" },
     # { link = "https://link-to-some-website.com/" },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
@@ -55,7 +56,7 @@ disableKinds = ["taxonomy", "term"]
     # { twitch = "https://twitch.tv/username" },
     # { twitter = "https://twitter.com/username" },
     # { whatsapp = "https://wa.me/phone-number" },
-    { x = "https://x.com/PharmRJ" },
+    # { x = "https://x.com/PharmRJ" },
     # { youtube = "https://youtube.com/username" },
   ]
 
