@@ -2,24 +2,24 @@
 languageCode = "en"
 defaultContentLanguage = "en"
 
-title = "Lynx"
+title = "PharmRJ"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
 [params.author]
-  # name = "Your name here"
-  # headline = "An awesome person"
-  # image = "img/author.jpg"  # path relative to static directory
+  name = "Robin Conibere"
+  headline = "A pharmacist interested in healthcare & tech"
+  image = "img/author.jpg"  # path relative to static directory
 
   links = [
+    { bluesky = "https://bsky.app/profile/username" },
     # { email = "mailto:hello@your_domain.com" },
     # { link = "https://link-to-some-website.com/" },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { apple = "https://www.apple.com" },
     # { bandcamp = "https://username.bandcamp.com" },
-    # { bluesky = "https://bsky.app/profile/username" },
     # { codepen = "https://codepen.io/username" },
     # { dev = "https://dev.to/username" },
     # { discord = "https://discord.gg/invitecode" },
